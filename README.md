@@ -53,12 +53,6 @@ Pastikan Anda memiliki browser web terbaru untuk memastikan tampilan dan fungsio
 
 ---
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah MIT License.
-
----
-
 ## Penghargaan
 
 Terima kasih kepada Satoshi Nakamoto untuk menciptakan Bitcoin, dan semua pengembang yang berkontribusi pada dunia cryptocurrency yang inovatif.
