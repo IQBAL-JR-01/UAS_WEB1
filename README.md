@@ -36,12 +36,11 @@ Pastikan Anda memiliki browser web terbaru untuk memastikan tampilan dan fungsio
 
 ## Struktur Folder
 
-/Investasi-Bitcoin
-|-- Beranda.html            -> Halaman utama situs web
-|-- What&Why.html           -> Halaman penjelasan What? & Why?
-|-- When&Where.html         -> Halaman penjelasan When? & Where?
-|-- Who&How.html            -> Halaman penjelasan Who? & How?
-|-- bitcoin_teknologi.jpeg  -> Gambar banner utama
+* Beranda.html            -> Halaman utama situs web
+* What&Why.html           -> Halaman penjelasan What? & Why?
+* When&Where.html         -> Halaman penjelasan When? & Where?
+* Who&How.html            -> Halaman penjelasan Who? & How?
+* bitcoin_teknologi.jpeg  -> Gambar banner utama
 
 ---
 
