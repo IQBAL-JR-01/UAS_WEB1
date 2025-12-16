@@ -21,10 +21,10 @@ Proyek ini bertujuan untuk memberikan pengetahuan dasar tentang Bitcoin dan baga
 
 ## Bahasa & Logic yang digunakan:
 
-HTML: Struktur dasar halaman web.
-CSS: Desain dan tata letak halaman, termasuk responsif dan tema gelap.
-JavaScript: Fitur interaktif, seperti toggle untuk mengubah mode gelap/terang.
-YouTube API: Menyematkan video edukasi untuk memberikan informasi lebih lanjut tentang Bitcoin.
+* HTML: Struktur dasar halaman web.
+* CSS: Desain dan tata letak halaman, termasuk responsif dan tema gelap.
+* JavaScript: Fitur interaktif, seperti toggle untuk mengubah mode gelap/terang.
+* YouTube API: Menyematkan video edukasi untuk memberikan informasi lebih lanjut tentang Bitcoin.
 
 ---
 
